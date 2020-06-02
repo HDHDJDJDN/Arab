@@ -1,0 +1,30 @@
+طريقة تثبيت اداة VBUG لانشاء فيروس للاندرويد ومع طريقة استعمال
+
+git clone https://github.com/Junior60/vbug
+
+ls + cd vbug
+
+chmod +x vbug.py
+
+python2 vbug.py
+
+5- اضغط انتر للدخول ال
+pkg update && pkg upgrade
+
+$ pkg install git
+
+$ pkg install curl
+
+$ pkg install figlet
+
+$ pkg install ruby
+
+$ gem install lolcat
+
+git clone https://github.com/MR-404-FOUND/VirtexWhatsapp
+
+$ cd VirtexWhatsapp
+
+$ chmod 777 VirtexWA
+
+$ sh VirtexWA
